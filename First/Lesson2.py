@@ -1,4 +1,4 @@
-# This is a sample Python script.
+# Basic arithmetic operations
 
 a = float(input("Enter the first number: "))
 b = float(input("Enter the second number: "))
